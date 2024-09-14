@@ -1,0 +1,14 @@
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.AssemblyInfoInputs.cache
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.AssemblyInfo.cs
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.csproj.CoreCompileInputs.cache
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\bin\Debug\net8.0\baitap2.exe
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\bin\Debug\net8.0\baitap2.deps.json
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\bin\Debug\net8.0\baitap2.runtimeconfig.json
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\bin\Debug\net8.0\baitap2.dll
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\bin\Debug\net8.0\baitap2.pdb
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.dll
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\refint\baitap2.dll
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.pdb
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\baitap2.genruntimeconfig.cache
+D:\ThuData\Learning\Dotnet\BaiTap\BaiTapBuoi2\baitap2\obj\Debug\net8.0\ref\baitap2.dll
